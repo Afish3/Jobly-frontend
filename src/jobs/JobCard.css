@@ -1,0 +1,16 @@
+.card {
+    background-color: white;
+    text-decoration: none;
+
+}
+
+.btn:hover {
+    /* font-size: 1.4rem;
+    height: 10rem;
+    width: 93vw; */
+    background-color: lightcoral;
+}
+
+h6 {
+    font-size: 1.2rem;
+}
